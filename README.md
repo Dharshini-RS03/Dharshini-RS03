@@ -131,6 +131,6 @@ Currently exploring open-source development and learning how to contribute to re
 
 <div align="center">
 
-### Keep Learning • Keep Building • Keep Contributing
+### Building today. Learning every day. Growing with every project.
 
 </div>
