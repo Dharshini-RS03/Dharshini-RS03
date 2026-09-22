@@ -117,12 +117,12 @@ Currently exploring open-source development and learning how to contribute to re
 
 <div align="center">
 
-<a href="https://github.com/Dharshini-RS03">
-<img src="https://img.shields.io/badge/GitHub-Dharshini--RS03-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/dharshini-rs-715933377/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dharsh03rs@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-315B91?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
