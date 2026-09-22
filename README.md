@@ -70,16 +70,6 @@ A real-time monitoring system designed to detect potentially risky situations an
 
 ---
 
-###  DSA Practice
-
-A collection of Data Structures and Algorithms implemented in Python while improving problem-solving skills.
-
-**Topics**
-
-`Linked Lists` `Stacks` `Queues` `Trees` `Graphs` `Sorting` `Searching` `Recursion`
-
----
-
 ## - Open Source
 
 Currently exploring open-source development and learning how to contribute to real-world projects.
