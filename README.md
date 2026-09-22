@@ -1,9 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm DHARSHINI R.S
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A7E8F2,30:6FC9E0,55:409AC2,80:315B91,100:202F5B&height=220&section=header&text=Hey,%20I'm%20DHARSHINI%20R.S%20👋&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Building%20%20•%20%20Learning%20%20•%20%20Exploring&descAlignY=62&descSize=18&descColor=ffffff"/>
 
-### `Building • Learning • Exploring`
+</div>
 
+<div align="center">
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+Progress;Python+%7C+React+%7C+AI%2FML;Open+Source+Enthusiast;Always+Learning+Something+New" />
 </p>
