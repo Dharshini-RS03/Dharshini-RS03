@@ -1,43 +1,135 @@
-# I'm Dharshini R. S.
+<div align="center">
 
-### B.Tech IT Student | Full Stack Developer | AI/ML Learner
+# 👋 Hi, I'm DHARSHINI R.S
 
-I'm an Information Technology student interested in building web applications, exploring AI/ML, practicing Data Structures & Algorithms, and contributing to open source.
+### `Building • Learning • Exploring`
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+Progress;Python+%7C+React+%7C+AI%2FML;Open+Source+Enthusiast;Always+Learning+Something+New" />
+</p>
+
+</div>
 
 ---
 
-##  About Me
+## - About Me
 
--  B.Tech Information Technology Student
+-  B.Tech Information Technology student
 -  Interested in Full Stack Development
--  Learning Python backend development
--  Exploring React
--  Exploring Machine Learning & Deep Learning
+-  Learning Python for backend development
+-  Exploring React and modern frontend development
+-  Exploring Machine Learning and Deep Learning
 -  Practicing Data Structures & Algorithms
 -  Exploring Open Source and GSoC
+-  Interested in building real-world applications
+-  Currently working on improving my development and problem-solving skills
 
 ---
 
-##  Tech Stack
+## - Tech Stack
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,javascript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ### Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,flask" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
-### AI / ML
+### AI / Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
 ---
 
+## - Featured Projects
 
+###  GuardianEyes
+
+**AI-Powered Baby Safety & Care Monitoring System**
+
+A real-time monitoring system designed to detect potentially risky situations and notify parents through alerts.
+
+**Tech Stack**
+
+`Python` `Flask` `OpenCV` `3D CNN` `Twilio` `HTML` `CSS`
+
+---
+
+###  DSA Practice
+
+A collection of Data Structures and Algorithms implemented in Python while improving problem-solving skills.
+
+**Topics**
+
+`Linked Lists` `Stacks` `Queues` `Trees` `Graphs` `Sorting` `Searching` `Recursion`
+
+---
+
+## - Open Source
+
+Currently exploring open-source development and learning how to contribute to real-world projects.
+
+```text
+     Find an Issue
+          ↓
+      Fork Repo
+          ↓
+    Create Branch
+          ↓
+     Make Changes
+          ↓
+       Testing
+          ↓
+    Commit & Push
+          ↓
+   Create Pull Request
+
+```
+
+---
+
+## - GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Dharshini-RS03&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+## - Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Dharshini-RS03">
+<img src="https://img.shields.io/badge/GitHub-Dharshini--RS03-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dharshini-rs-715933377/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Keep Learning • Keep Building • Keep Contributing
+
+</div>
